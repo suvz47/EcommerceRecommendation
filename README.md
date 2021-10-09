@@ -32,8 +32,9 @@ pip install -r requirements.txt
 ---
 
 ## 📘 Data  
-ratings.csv - Amazon product ratings - recommendation type 1
-product_descriptions.csv - Home depot dataset with product descriptions - recommendation type 2
+ratings.csv - Amazon product ratings - recommendation type 1.
+
+product_descriptions.csv - Home depot dataset with product descriptions - recommendation type 2.
 
 ---
 
